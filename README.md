@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Map with Custom Cursor</title>
+<title>Map with Custom Cursor</title>
      <style>
             
 area {
@@ -40,7 +40,7 @@ img {
             // Display the area name in the console
             alert(`You clicked on: ${data}`);
         }
-    </script>
+</script>
 </body>
 </html>
 
